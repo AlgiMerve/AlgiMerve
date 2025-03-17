@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQE55zoPJiXh8w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1684328579096?e=1740614400&v=beta&t=tF2BwucTwUHRoQR70zmGKYKPGWOGhxeUkt4hWnaD3lU" alt="MasterHead">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQE55zoPJiXh8w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1684328579096?e=1740614400&v=beta&t=tF2BwucTwUHRoQR70zmGKYKPGWOGhxeUkt4hWnaD3lU" alt="">
 </div>
 
 
